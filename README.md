@@ -4,11 +4,11 @@ A Python Machine Learning project that predicts movie genres based on movie desc
 ## Features
  Predicts:
  <br>
-    Action
+     Action
     <br>
-    Horror
+     Horror
     <br>
-    Comedy
+     Comedy
     <br>
  Uses TF-IDF Vectorization
  <br>
