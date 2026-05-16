@@ -14,7 +14,6 @@ A Python Machine Learning project that predicts movie genres based on movie desc
  <br>
 
 ## Technologies Used
-<br>
  Python
  <br>
  Pandas
