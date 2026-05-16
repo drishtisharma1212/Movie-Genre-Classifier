@@ -2,14 +2,8 @@
 A Python Machine Learning project that predicts movie genres based on movie descriptions.
 
 ## Features
- Predicts:
+ Predicts: Action, Horror, Comedy
  <br>
-     Action
-    <br>
-     Horror
-    <br>
-     Comedy
-    <br>
  Uses TF-IDF Vectorization
  <br>
  Uses Logistic Regression
